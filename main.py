@@ -1,3 +1,5 @@
+import os
+
 w = "\033[1;37m"
 r = "\033[1;31m"
 
@@ -31,5 +33,6 @@ def author():
     """)
 
 if __name__ == '__main__':
+    os.system("xdg-open https://youtube.com/@devstackid")
     logo()
     author()
