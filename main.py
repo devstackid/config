@@ -33,6 +33,6 @@ def author():
     """)
 
 if __name__ == '__main__':
-#    os.system("xdg-open https://youtube.com/@devstackid")
+#    os.system("xdg-open https://youtube.com/@devzid02")
     logo()
     author()
